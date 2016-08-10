@@ -5,6 +5,15 @@ import java.io.Serializable;
 import java.text.DecimalFormat;
 import java.util.ArrayList;
 
+
+/**
+ * This is a test. TEST 1 Test 2 TeSt 3 tEsT 4
+ * ashduahsduhaiuhssfhalhgiahiugha
+ * @author Anthony Orio
+ *
+ */
+
+
 //import javafx.animation.Animation;
 
 public class Player extends Entity_Character implements Comparable<Entity>, Serializable {
